@@ -7,8 +7,8 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 
 ## A. Money questions (highest buyer intent)
 - [x] 2026-10-13 how-much-to-edit-a-tiktok-video | how much does it cost to edit a tiktok video | How Much Does It Cost to Edit a TikTok Video in 2026? | Pricing Guide | /services/tiktok-editing, /#pricing, /blog/short-form-video-editing-cost-2026
-- [ ] instagram-reels-editing-price-per-video | instagram reels editing price | Instagram Reels Editing Price: What You Pay Per Video in 2026 | Pricing Guide | /services/reels-editing, /#pricing, /sample-edit
-- [ ] video-editor-hourly-rate-vs-per-video | video editor hourly rate 2026 | Video Editor Hourly Rate vs Per-Video Pricing: Which Costs Less? | Pricing Guide | /#pricing, /blog/freelancer-vs-agency-vs-subscription-video-editing
+- [x] 2026-10-14 instagram-reels-editing-price-per-video | instagram reels editing price | Instagram Reels Editing Price: What You Pay Per Video in 2026 | Pricing Guide | /services/reels-editing, /#pricing, /sample-edit
+- [x] 2026-10-14 video-editor-hourly-rate-vs-per-video | video editor hourly rate 2026 | Video Editor Hourly Rate vs Per-Video Pricing: Which Costs Less? | Pricing Guide | /#pricing, /blog/freelancer-vs-agency-vs-subscription-video-editing
 - [ ] cost-of-hiring-in-house-video-editor-usa | cost of hiring a video editor in the usa | What an In-House Video Editor Really Costs a US Business in 2026 | Pricing Guide | /#pricing, /blog/short-form-video-editing-cost-2026
 - [ ] monthly-video-editing-subscription-worth-it | is a video editing subscription worth it | Is a Monthly Video Editing Subscription Worth It? A Break-Even Calculator | Buying Guide | /#pricing, /sample-edit
 - [ ] youtube-shorts-editing-cost | youtube shorts editing cost | YouTube Shorts Editing Cost in 2026 (and What Changes the Price) | Pricing Guide | /services/youtube-shorts-editing, /#pricing
