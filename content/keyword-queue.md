@@ -13,8 +13,8 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 - [x] 2026-10-16 monthly-video-editing-subscription-worth-it | is a video editing subscription worth it | Is a Monthly Video Editing Subscription Worth It? A Break-Even Calculator | Buying Guide | /#pricing, /sample-edit
 - [x] 2026-10-19 youtube-shorts-editing-cost | youtube shorts editing cost | YouTube Shorts Editing Cost in 2026 (and What Changes the Price) | Pricing Guide | /services/youtube-shorts-editing, /#pricing
 - [x] 2026-10-19 linkedin-video-editing-cost | linkedin video editing cost | What LinkedIn Video Editing Costs for Founders and Consultants | Pricing Guide | /services/linkedin-video-editing, /for/founders, /for/consultants
-- [ ] rush-video-editing-pricing-explained | rush video editing pricing | Rush Video Editing: What 24-Hour and Same-Day Delivery Really Cost | Pricing Guide | /same-day-video-editing, /24-hour-reels-editing, /rush-video-editing
-- [ ] paid-pilot-vs-free-trial-video-editing | video editing trial | Why a $149 Paid Pilot Beats a "Free Trial" When Choosing a Video Editor | Buying Guide | /sample-edit, /#pricing
+- [x] 2026-10-21 rush-video-editing-pricing-explained | rush video editing pricing | Rush Video Editing: What 24-Hour and Same-Day Delivery Really Cost | Pricing Guide | /same-day-video-editing, /24-hour-reels-editing, /rush-video-editing
+- [x] 2026-10-21 paid-pilot-vs-free-trial-video-editing | video editing trial | Why a $149 Paid Pilot Beats a "Free Trial" When Choosing a Video Editor | Buying Guide | /sample-edit, /#pricing
 - [ ] video-editing-packages-for-small-business | video editing packages for small business | Video Editing Packages for Small Businesses: What to Look For in 2026 | Buying Guide | /#pricing, /for/, /services/
 
 ## B. How-to for people about to hire (lead magnets)
