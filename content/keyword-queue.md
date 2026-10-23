@@ -15,10 +15,10 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 - [x] 2026-10-19 linkedin-video-editing-cost | linkedin video editing cost | What LinkedIn Video Editing Costs for Founders and Consultants | Pricing Guide | /services/linkedin-video-editing, /for/founders, /for/consultants
 - [x] 2026-10-21 rush-video-editing-pricing-explained | rush video editing pricing | Rush Video Editing: What 24-Hour and Same-Day Delivery Really Cost | Pricing Guide | /same-day-video-editing, /24-hour-reels-editing, /rush-video-editing
 - [x] 2026-10-21 paid-pilot-vs-free-trial-video-editing | video editing trial | Why a $149 Paid Pilot Beats a "Free Trial" When Choosing a Video Editor | Buying Guide | /sample-edit, /#pricing
-- [ ] video-editing-packages-for-small-business | video editing packages for small business | Video Editing Packages for Small Businesses: What to Look For in 2026 | Buying Guide | /#pricing, /for/, /services/
+- [x] 2026-10-23 video-editing-packages-for-small-business | video editing packages for small business | Video Editing Packages for Small Businesses: What to Look For in 2026 | Buying Guide | /#pricing, /for/, /services/
 
 ## B. How-to for people about to hire (lead magnets)
-- [ ] how-to-brief-a-video-editor | how to brief a video editor | How to Brief a Video Editor So the First Cut Is Right | Process | /blog/how-remote-video-editing-works, /sample-edit
+- [x] 2026-10-23 how-to-brief-a-video-editor | how to brief a video editor | How to Brief a Video Editor So the First Cut Is Right | Process | /blog/how-remote-video-editing-works, /sample-edit
 - [ ] how-to-send-raw-footage-to-video-editor | how to send raw footage to a video editor | How to Send Raw Footage to a Video Editor (Without Losing Quality) | Process | /edit-my-phone-videos, /blog/how-remote-video-editing-works
 - [ ] what-to-ask-before-hiring-video-editor | questions to ask a video editor before hiring | 12 Questions to Ask a Video Editor Before You Hire Them | Buying Guide | /#pricing, /sample-edit
 - [ ] how-many-reels-per-week-to-grow | how many reels per week to grow | How Many Reels Per Week Do You Need to Grow in 2026? | Platform Guide | /services/reels-editing, /#pricing
