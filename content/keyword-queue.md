@@ -19,8 +19,8 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 
 ## B. How-to for people about to hire (lead magnets)
 - [x] 2026-10-23 how-to-brief-a-video-editor | how to brief a video editor | How to Brief a Video Editor So the First Cut Is Right | Process | /blog/how-remote-video-editing-works, /sample-edit
-- [ ] how-to-send-raw-footage-to-video-editor | how to send raw footage to a video editor | How to Send Raw Footage to a Video Editor (Without Losing Quality) | Process | /edit-my-phone-videos, /blog/how-remote-video-editing-works
-- [ ] what-to-ask-before-hiring-video-editor | questions to ask a video editor before hiring | 12 Questions to Ask a Video Editor Before You Hire Them | Buying Guide | /#pricing, /sample-edit
+- [x] 2026-10-26 how-to-send-raw-footage-to-video-editor | how to send raw footage to a video editor | How to Send Raw Footage to a Video Editor (Without Losing Quality) | Process | /edit-my-phone-videos, /blog/how-remote-video-editing-works
+- [x] 2026-10-26 what-to-ask-before-hiring-video-editor | questions to ask a video editor before hiring | 12 Questions to Ask a Video Editor Before You Hire Them | Buying Guide | /#pricing, /sample-edit
 - [ ] how-many-reels-per-week-to-grow | how many reels per week to grow | How Many Reels Per Week Do You Need to Grow in 2026? | Platform Guide | /services/reels-editing, /#pricing
 - [ ] batch-filming-30-videos-in-one-day | batch filming short form videos | How to Batch-Film 30 Short Videos in One Day (Script to Upload) | Process | /services/talking-head-video-editing, /#pricing
 - [ ] iphone-footage-look-professional | make iphone footage look professional | How Editors Make iPhone Footage Look Professional | Editing Technique | /edit-my-phone-videos, /services/color-grading
