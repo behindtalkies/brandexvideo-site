@@ -74,7 +74,7 @@
   <url><loc>https://www.brandexvideo.com/for/consultants</loc><lastmod>2026-09-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url>
     <loc>https://www.brandexvideo.com/blog/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -269,6 +269,18 @@
   <url>
     <loc>https://www.brandexvideo.com/blog/how-to-film-talking-head-videos-at-home</loc>
     <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.brandexvideo.com/blog/repurpose-one-video-into-ten-clips</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.brandexvideo.com/blog/video-editing-turnaround-time-whats-normal</loc>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
