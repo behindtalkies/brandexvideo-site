@@ -27,8 +27,8 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 - [x] 2026-10-30 how-to-film-talking-head-videos-at-home | how to film talking head videos at home | How to Film Talking-Head Videos at Home That Editors Can Make Shine | Process | /services/talking-head-video-editing, /styles/cinematic-talking-head-style
 - [x] 2026-11-02 repurpose-one-video-into-ten-clips | repurpose long video into short clips | How to Turn One 20-Minute Video Into 10 Short Clips | Editing Technique | /for/podcasters, /services/youtube-shorts-editing
 - [x] 2026-11-02 video-editing-turnaround-time-whats-normal | video editing turnaround time | Video Editing Turnaround Time: What's Normal and What's Slow in 2026 | Process | /24-hour-reels-editing, /same-day-video-editing
-- [ ] unlimited-video-editing-fine-print | unlimited video editing | "Unlimited" Video Editing: What the Fine Print Actually Means | Buying Guide | /#pricing, /blog/freelancer-vs-agency-vs-subscription-video-editing
-- [ ] outsourcing-video-editing-overseas-guide | outsource video editing | Outsourcing Video Editing Overseas: A Practical Guide for US and UK Creators | Buying Guide | /blog/how-remote-video-editing-works, /#pricing
+- [x] 2026-11-04 unlimited-video-editing-fine-print | unlimited video editing | "Unlimited" Video Editing: What the Fine Print Actually Means | Buying Guide | /#pricing, /blog/freelancer-vs-agency-vs-subscription-video-editing
+- [x] 2026-11-04 outsourcing-video-editing-overseas-guide | outsource video editing | Outsourcing Video Editing Overseas: A Practical Guide for US and UK Creators | Buying Guide | /blog/how-remote-video-editing-works, /#pricing
 - [ ] video-editor-vs-ai-editing-tools | ai video editing vs human editor | AI Video Editing Tools vs a Human Editor: What Each Gets Right in 2026 | Buying Guide | /sample-edit, /services/animated-captions
 
 ## C. Editing technique (AEO-friendly definitional posts)

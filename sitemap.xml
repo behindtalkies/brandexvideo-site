@@ -74,7 +74,7 @@
   <url><loc>https://www.brandexvideo.com/for/consultants</loc><lastmod>2026-09-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url>
     <loc>https://www.brandexvideo.com/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -281,6 +281,18 @@
   <url>
     <loc>https://www.brandexvideo.com/blog/video-editing-turnaround-time-whats-normal</loc>
     <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.brandexvideo.com/blog/unlimited-video-editing-fine-print</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.brandexvideo.com/blog/outsourcing-video-editing-overseas-guide</loc>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
