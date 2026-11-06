@@ -29,10 +29,10 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 - [x] 2026-11-02 video-editing-turnaround-time-whats-normal | video editing turnaround time | Video Editing Turnaround Time: What's Normal and What's Slow in 2026 | Process | /24-hour-reels-editing, /same-day-video-editing
 - [x] 2026-11-04 unlimited-video-editing-fine-print | unlimited video editing | "Unlimited" Video Editing: What the Fine Print Actually Means | Buying Guide | /#pricing, /blog/freelancer-vs-agency-vs-subscription-video-editing
 - [x] 2026-11-04 outsourcing-video-editing-overseas-guide | outsource video editing | Outsourcing Video Editing Overseas: A Practical Guide for US and UK Creators | Buying Guide | /blog/how-remote-video-editing-works, /#pricing
-- [ ] video-editor-vs-ai-editing-tools | ai video editing vs human editor | AI Video Editing Tools vs a Human Editor: What Each Gets Right in 2026 | Buying Guide | /sample-edit, /services/animated-captions
+- [x] 2026-11-06 video-editor-vs-ai-editing-tools | ai video editing vs human editor | AI Video Editing Tools vs a Human Editor: What Each Gets Right in 2026 | Buying Guide | /sample-edit, /services/animated-captions
 
 ## C. Editing technique (AEO-friendly definitional posts)
-- [ ] what-is-b-roll-and-why-reels-need-it | what is b-roll | What Is B-Roll and Why Every Reel Needs It | Editing Technique | /services/b-roll-editing, /styles/
+- [x] 2026-11-06 what-is-b-roll-and-why-reels-need-it | what is b-roll | What Is B-Roll and Why Every Reel Needs It | Editing Technique | /services/b-roll-editing, /styles/
 - [ ] best-caption-style-for-reels-2026 | best caption style for reels | The Best Caption Style for Reels in 2026 (With Examples) | Editing Technique | /services/animated-captions, /styles/bold-caption-style
 - [ ] ideal-length-for-instagram-reels | ideal length for instagram reels | The Ideal Instagram Reel Length in 2026, by Goal | Platform Guide | /services/reels-editing, /blog/anatomy-of-a-60-second-video-hook
 - [ ] text-hook-vs-spoken-hook | text hook reels | Text Hook vs Spoken Hook: Which Stops the Scroll Faster? | Editing Technique | /services/text-hook-reels, /blog/anatomy-of-a-60-second-video-hook
