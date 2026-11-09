@@ -33,8 +33,8 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 
 ## C. Editing technique (AEO-friendly definitional posts)
 - [x] 2026-11-06 what-is-b-roll-and-why-reels-need-it | what is b-roll | What Is B-Roll and Why Every Reel Needs It | Editing Technique | /services/b-roll-editing, /styles/
-- [ ] best-caption-style-for-reels-2026 | best caption style for reels | The Best Caption Style for Reels in 2026 (With Examples) | Editing Technique | /services/animated-captions, /styles/bold-caption-style
-- [ ] ideal-length-for-instagram-reels | ideal length for instagram reels | The Ideal Instagram Reel Length in 2026, by Goal | Platform Guide | /services/reels-editing, /blog/anatomy-of-a-60-second-video-hook
+- [x] 2026-11-09 best-caption-style-for-reels-2026 | best caption style for reels | The Best Caption Style for Reels in 2026 (With Examples) | Editing Technique | /services/animated-captions, /styles/bold-caption-style
+- [x] 2026-11-09 ideal-length-for-instagram-reels | ideal length for instagram reels | The Ideal Instagram Reel Length in 2026, by Goal | Platform Guide | /services/reels-editing, /blog/anatomy-of-a-60-second-video-hook
 - [ ] text-hook-vs-spoken-hook | text hook reels | Text Hook vs Spoken Hook: Which Stops the Scroll Faster? | Editing Technique | /services/text-hook-reels, /blog/anatomy-of-a-60-second-video-hook
 - [ ] jump-cuts-vs-b-roll-for-talking-head | jump cuts talking head video | Jump Cuts vs B-Roll: How to Keep a Talking-Head Video Moving | Editing Technique | /services/talking-head-video-editing, /services/b-roll-editing
 - [ ] colour-grading-for-short-form-video | colour grading short form video | Colour Grading for Short-Form Video: Why Your Reels Look Flat | Editing Technique | /services/color-grading, /edit-my-phone-videos
