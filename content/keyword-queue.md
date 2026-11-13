@@ -37,8 +37,8 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 - [x] 2026-11-09 ideal-length-for-instagram-reels | ideal length for instagram reels | The Ideal Instagram Reel Length in 2026, by Goal | Platform Guide | /services/reels-editing, /blog/anatomy-of-a-60-second-video-hook
 - [x] 2026-11-11 text-hook-vs-spoken-hook | text hook reels | Text Hook vs Spoken Hook: Which Stops the Scroll Faster? | Editing Technique | /services/text-hook-reels, /blog/anatomy-of-a-60-second-video-hook
 - [x] 2026-11-11 jump-cuts-vs-b-roll-for-talking-head | jump cuts talking head video | Jump Cuts vs B-Roll: How to Keep a Talking-Head Video Moving | Editing Technique | /services/talking-head-video-editing, /services/b-roll-editing
-- [ ] colour-grading-for-short-form-video | colour grading short form video | Colour Grading for Short-Form Video: Why Your Reels Look Flat | Editing Technique | /services/color-grading, /edit-my-phone-videos
-- [ ] safe-zones-for-vertical-video | safe zones vertical video | Safe Zones for Vertical Video: Where Text Gets Hidden on Each Platform | Platform Guide | /blog/reels-vs-tiktok-vs-shorts-editing-differences
+- [x] 2026-11-13 colour-grading-for-short-form-video | colour grading short form video | Colour Grading for Short-Form Video: Why Your Reels Look Flat | Editing Technique | /services/color-grading, /edit-my-phone-videos
+- [x] 2026-11-13 safe-zones-for-vertical-video | safe zones vertical video | Safe Zones for Vertical Video: Where Text Gets Hidden on Each Platform | Platform Guide | /blog/reels-vs-tiktok-vs-shorts-editing-differences
 - [ ] faceless-reels-that-still-convert | faceless reels | Faceless Reels That Still Convert: 7 Formats That Work in 2026 | Editing Technique | /services/faceless-reels-editing
 - [ ] green-screen-reels-explained | green screen reels | Green-Screen Reels: When to Use Them and How Editors Make Them Clean | Editing Technique | /services/green-screen-editing
 - [ ] before-and-after-reels-formula | before and after reels | The Before-and-After Reel Formula for Service Businesses | Editing Technique | /services/before-and-after-reels, /for/med-spas, /for/auto-detailers
