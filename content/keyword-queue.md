@@ -41,8 +41,8 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 - [x] 2026-11-13 safe-zones-for-vertical-video | safe zones vertical video | Safe Zones for Vertical Video: Where Text Gets Hidden on Each Platform | Platform Guide | /blog/reels-vs-tiktok-vs-shorts-editing-differences
 - [x] 2026-11-16 faceless-reels-that-still-convert | faceless reels | Faceless Reels That Still Convert: 7 Formats That Work in 2026 | Editing Technique | /services/faceless-reels-editing
 - [x] 2026-11-16 green-screen-reels-explained | green screen reels | Green-Screen Reels: When to Use Them and How Editors Make Them Clean | Editing Technique | /services/green-screen-editing
-- [ ] before-and-after-reels-formula | before and after reels | The Before-and-After Reel Formula for Service Businesses | Editing Technique | /services/before-and-after-reels, /for/med-spas, /for/auto-detailers
-- [ ] screen-recording-to-short-video | screen recording video editing | How to Turn a Screen Recording Into a Watchable Short Video | Editing Technique | /services/screen-recording-editing, /for/saas-founders
+- [x] 2026-11-18 before-and-after-reels-formula | before and after reels | The Before-and-After Reel Formula for Service Businesses | Editing Technique | /services/before-and-after-reels, /for/med-spas, /for/auto-detailers
+- [x] 2026-11-18 screen-recording-to-short-video | screen recording video editing | How to Turn a Screen Recording Into a Watchable Short Video | Editing Technique | /services/screen-recording-editing, /for/saas-founders
 - [ ] carousel-vs-reel-which-performs | carousel vs reel | Carousel vs Reel in 2026: Which Performs Better, and When to Convert | Platform Guide | /services/carousel-to-video
 - [ ] music-licensing-for-reels-and-tiktok | music licensing for reels | Music Licensing for Reels, TikTok and Shorts: What Business Accounts Can Use | Platform Guide | /services/reels-editing, /services/tiktok-editing
 - [ ] day-in-the-life-video-structure | day in the life video | How to Structure a Day-in-the-Life Video People Finish Watching | Editing Technique | /services/day-in-the-life-editing
