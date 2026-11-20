@@ -43,8 +43,8 @@ Format: `- [ ] slug | primary keyword | working H1 | category | internal links t
 - [x] 2026-11-16 green-screen-reels-explained | green screen reels | Green-Screen Reels: When to Use Them and How Editors Make Them Clean | Editing Technique | /services/green-screen-editing
 - [x] 2026-11-18 before-and-after-reels-formula | before and after reels | The Before-and-After Reel Formula for Service Businesses | Editing Technique | /services/before-and-after-reels, /for/med-spas, /for/auto-detailers
 - [x] 2026-11-18 screen-recording-to-short-video | screen recording video editing | How to Turn a Screen Recording Into a Watchable Short Video | Editing Technique | /services/screen-recording-editing, /for/saas-founders
-- [ ] carousel-vs-reel-which-performs | carousel vs reel | Carousel vs Reel in 2026: Which Performs Better, and When to Convert | Platform Guide | /services/carousel-to-video
-- [ ] music-licensing-for-reels-and-tiktok | music licensing for reels | Music Licensing for Reels, TikTok and Shorts: What Business Accounts Can Use | Platform Guide | /services/reels-editing, /services/tiktok-editing
+- [x] 2026-11-20 carousel-vs-reel-which-performs | carousel vs reel | Carousel vs Reel in 2026: Which Performs Better, and When to Convert | Platform Guide | /services/carousel-to-video
+- [x] 2026-11-20 music-licensing-for-reels-and-tiktok | music licensing for reels | Music Licensing for Reels, TikTok and Shorts: What Business Accounts Can Use | Platform Guide | /services/reels-editing, /services/tiktok-editing
 - [ ] day-in-the-life-video-structure | day in the life video | How to Structure a Day-in-the-Life Video People Finish Watching | Editing Technique | /services/day-in-the-life-editing
 - [ ] duet-and-stitch-strategy-for-brands | tiktok stitch strategy | Duet and Stitch Strategy for Brands: Riding Trends Without Looking Desperate | Platform Guide | /services/duet-stitch-editing
 
